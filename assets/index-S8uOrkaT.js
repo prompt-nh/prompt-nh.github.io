@@ -52,7 +52,7 @@ Error generating stack: `+u.message+`
  *
  * This source code is licensed under the ISC license.
  * See the LICENSE file in the root directory of this source tree.
- */const Fd=jd("Menu",[["line",{x1:"4",x2:"20",y1:"12",y2:"12",key:"1e0a9i"}],["line",{x1:"4",x2:"20",y1:"6",y2:"6",key:"1owob3"}],["line",{x1:"4",x2:"20",y1:"18",y2:"18",key:"yk5zj1"}]]),Md=[{title:"생성형 AI를 활용한 전략적 의사결정123",content:"실습 프롬프트",prompts:[]},{title:"비전 + 이미지 생성",prompts:[{text:`위 첨부한 로고에 사용된 컬러와 디자인 스타일을 이용해서 20~30대  고객 대상 판촉물을 디자인해줘.
+ */const Fd=jd("Menu",[["line",{x1:"4",x2:"20",y1:"12",y2:"12",key:"1e0a9i"}],["line",{x1:"4",x2:"20",y1:"6",y2:"6",key:"1owob3"}],["line",{x1:"4",x2:"20",y1:"18",y2:"18",key:"yk5zj1"}]]),Md=[{title:"생성형 AI를 활용한 전략적 의사결정",content:"실습 프롬프트",prompts:[]},{title:"비전 + 이미지 생성",prompts:[{text:`위 첨부한 로고에 사용된 컬러와 디자인 스타일을 이용해서 20~30대  고객 대상 판촉물을 디자인해줘.
 
 제품 구성 : 다이어리, 볼펜, 노트, 지갑, 명합지갑 세트
 'Tesla'라는 브랜드명을 제품에 자연스럽게 노출시켜줘
